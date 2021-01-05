@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/xia-li-lin/public-account-development#readme",
   "devDependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "co-wechat": "^2.4.0",
     "co-wechat-api": "^3.10.0",
     "koa": "^2.11.0",
